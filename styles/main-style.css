@@ -1,0 +1,42 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font: 32px Oswald;
+    font-weight: 600;
+}
+
+.subtitle {
+    color: aliceblue;
+    font: 16px Lato;
+    font-weight: 100;
+    margin-left: 3%;
+}
+
+.content {
+    color: azure;
+    padding-top: 1%;
+    font: 15px Lato;
+    font-weight: 400;
+    width: 90%;
+    margin-left: 0%;
+    word-wrap: break-word;
+}
+
+.articles {
+    background: #3498DB;
+    border-radius: 12px;
+    padding: 10px 10px 4px 5px;
+}
+
+.single-post {
+    background: #2C3E50;
+    border-radius: 12px;
+    padding: 0px 15px 15px 12px;
+    margin-left: 1%;
+    margin-bottom: 1%;
+}
